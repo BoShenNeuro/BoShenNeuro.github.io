@@ -20,11 +20,11 @@ NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational, Mouse-Tracking, 
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
 
-This is HTML abbreviation example.
+This is SJTU abbreviation example.
 
 It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
-*[HTML]: Shanghai-Jiaotong-University
+*[SJTU]: Hyper Text Markup Language
 
 
 ---
