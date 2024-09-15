@@ -13,7 +13,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 __Tag me with:__
  <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span>[^third],[^fifth],[^sixth] <span>#Mouse-Tracking</span>[^third]
 
-<span>Guilt</span>[^third],[^seventh], <span>fMRI</span>[^eighth],[^ninth],[^tenth],[^eleventh], <span>tDCS</span>[^second], <span>Delay-discounting</span>[^second],[^fourth], <span>Photography</span>, <span>Hiking</span>, <span>Camping</span>
+<span>#Guilt</span>[^third],[^seventh], <span>#fMRI</span>[^eighth],[^ninth],[^tenth],[^eleventh], <span>#tDCS</span>[^second], <span>#Delay-discounting</span>[^second],[^fourth], <span>#Photography</span>, <span>#Hiking</span>, <span>#Camping</span>
 
 
 [^first]: Shen, B., Wilson, J. M., Nguyen, D., Glimcher, P. W., & Louie, K. (2024). Origins of noise in both improving and degrading decision making. [bioRxiv, 2024-03.](https://doi.org/10.1101/2024.03.26.586597)
