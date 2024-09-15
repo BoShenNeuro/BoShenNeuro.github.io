@@ -11,9 +11,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 - __Social decision-making__[^third],[^seventh],[^tenth],[^eleventh] - understand how humans pick their best ways of social interactions with others.
 
 __Tag me with:__
- 
-
-<span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span>[^third],[^fifth],[^sixth] <span>#Mouse-Tracking</span>[^third]
+ <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span>[^third],[^fifth],[^sixth] <span>#Mouse-Tracking</span>[^third]
 
 <span>Guilt</span>[^third],[^seventh], <span>fMRI</span>[^eighth],[^ninth],[^tenth],[^eleventh], <span>tDCS</span>[^second], <span>Delay-discounting</span>[^second],[^fourth], <span>Photography</span>, <span>Hiking</span>, <span>Camping</span>
 
