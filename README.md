@@ -17,7 +17,7 @@ NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational, Mouse-Tracking, 
 
 
 ---
-![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/WechatIMG49.jpg?raw=true)
+![photo](https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true)
 Bo Shen married Jia He in New York, September 2024
 
 ---
