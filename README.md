@@ -13,7 +13,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 __Tag me with:__
 '#'NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational[^third],[^fifth],[^sixth], Mouse-Tracking[^third], Guilt[^third],[^seventh], fMRI[^eighth],[^ninth],[^tenth],[^eleventh], tDCS[^second], Delay-discounting[^second],[^fourth], Photography, Hiking, Camping
 
-<span>#NYU</span>
+<span>#NYU</span>, <span>#PKU</span>, <span>#SJTU</span>, <span>#Neuroeconomics</span>, 
 
 ---
 title: "A Trip To the Zoo"
