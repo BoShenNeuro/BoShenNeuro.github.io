@@ -9,6 +9,8 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 - __[Neural circuit computations](https://elifesciences.org/articles/82426)__ - understand how cognition arises from the network of billions of neurons.
 - __[Social decision-making](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how humans pick their best ways of social interactions with others.
 
+![photo](https://github.com/DrJiaHe/DrJiaHe.github.io/blob/main/Vessels.jpg?raw=true)
+
 __Personal labels:__
 NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational, Mouse-Tracking, Guilt, fMRI, tDCS, Photography, Hiking, Camping
 
