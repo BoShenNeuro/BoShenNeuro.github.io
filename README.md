@@ -24,7 +24,7 @@ This is SJTU abbreviation example.
 
 It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
-*[SJTU]: Shanghai Jiaotong University
+*[SJTU]: Shanghai-Jiaotong-University
 
 
 ---
