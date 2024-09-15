@@ -18,6 +18,12 @@ NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational, Mouse-Tracking, 
 
 *[SJTU]: Shanghai Jiaotong University
 
+This is HTML abbreviation example.
+
+It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
+
+*[HTML]: Hyper Text Markup Language
+
 
 ---
 ![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/20240909-DSCF8576.JPG?raw=true)
