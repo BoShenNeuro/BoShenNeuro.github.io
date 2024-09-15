@@ -5,7 +5,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 ---
 ### Research Interests
 
-- __[Value coding and decision-making](https://nodeca.github.io/pica/demo/)__ - answer how your brain processes something you like or hate and choose between them.
+- __[Value coding and decision-making](https://www.biorxiv.org/content/10.1101/2024.03.26.586597v2)__ - answer how your brain processes something you like or hate and choose between them.
 - __[Neural circuit computations](https://elifesciences.org/articles/82426)__ - understand how cognition arises from the network of billions of neurons.
 - __[Social decision-making](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how humans pick their best ways of social interactions with others.
 
