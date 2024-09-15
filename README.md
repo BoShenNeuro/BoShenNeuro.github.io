@@ -9,22 +9,10 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 - __[Neural circuit computations](https://elifesciences.org/articles/82426)__ - understand how cognition arises from the network of billions of neurons.
 - __[Social decision-making](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how humans pick their best ways of social interactions with others.
 
-__Personal labels:__ 
-### Personal Labels
+__Personal labels:__
 NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational, Mouse-Tracking, Guilt, fMRI, tDCS, Photography, Hiking, Camping
 
-*[NYU]: New York University
 
-*[PKU]: Peking University
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is SJTU abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[SJTU]: Hyper Text Markup Language
 
 
 ---
