@@ -11,6 +11,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 
 __Personal labels:__ 
 PKU, NYU, SJTU, Computational, Mouse-Tracking, Decision-making, Guilt, fMRI, tDCS
+
 ---
 ![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/20240909-DSCF8576.JPG?raw=true)
 Bo Shen married Jia He in New York, September 2024
