@@ -11,6 +11,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 
 __Personal labels:__ 
 NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational, Mouse-Tracking, Guilt, fMRI, tDCS, Photography, Hiking, Camping
+
 *[NYU]: New York University
 *[PKU]: Peking University
 *[SJTU]: Shanghai Jiaotong University
