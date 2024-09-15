@@ -19,10 +19,10 @@ Bo Shen married Jia He in New York, September 2024
 ---
 
 ## Selected publications
-- [Shen, B., Wilson, J. M., Nguyen, D., Glimcher, P. W., & Louie, K. (2024). Origins of noise in both improving and degrading decision making. bioRxiv, 2024-03.](https://doi.org/10.1101/2024.03.26.586597)
-- [Shen, B., Louie, K., & Glimcher, P. (2023). Flexible control of representational dynamics in a disinhibition-based model of decision-making. Elife, 12, e82426.](https://doi.org/10.7554/eLife.82426)
-- [Shen, B., Chen, Y., He, Z., Li, W., Yu, H., & Zhou, X. (2023). The competition dynamics of approach and avoidance motivations following interpersonal transgression. Proceedings of the National Academy of Sciences, 120(40), e2302484120.](https://doi.org/10.1073/pnas.2302484120)
-- [Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
+- Shen, B., Wilson, J. M., Nguyen, D., Glimcher, P. W., & Louie, K. (2024). Origins of noise in both improving and degrading decision making. [bioRxiv, 2024-03.](https://doi.org/10.1101/2024.03.26.586597)
+- Shen, B., Louie, K., & Glimcher, P. (2023). Flexible control of representational dynamics in a disinhibition-based model of decision-making. [Elife, 12, e82426.](https://doi.org/10.7554/eLife.82426)
+- Shen, B., Chen, Y., He, Z., Li, W., Yu, H., & Zhou, X. (2023). The competition dynamics of approach and avoidance motivations following interpersonal transgression. [Proceedings of the National Academy of Sciences, 120(40), e2302484120.](https://doi.org/10.1073/pnas.2302484120)
+- Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
   
 
 
