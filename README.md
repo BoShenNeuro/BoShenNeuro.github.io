@@ -9,7 +9,8 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 - __[Neural circuit computations](https://elifesciences.org/articles/82426)__ - understand how cognition arises from the network of billions of neurons.
 - __[Social decision-making](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how humans pick their best ways of social interactions with others.
 
-__Personal labels: __ PKU, NYU, SJTU, Computational, Mouse-Tracking, Decision-making, Guilt, fMRI, tDCS, 
+__Personal labels:__ 
+PKU, NYU, SJTU, Computational, Mouse-Tracking, Decision-making, Guilt, fMRI, tDCS
 ---
 ![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/20240909-DSCF8576.JPG?raw=true)
 Bo Shen married Jia He in New York, September 2024
