@@ -10,7 +10,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 - __[Social decision-making](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how humans pick their best ways of social interactions with others.
 
 __Personal labels:__ 
-PKU, NYU, SJTU, Computational, Mouse-Tracking, Decision-making, Guilt, fMRI, tDCS
+PKU, NYU, SJTU, Neuroeconomics, Decision-making, Computational, Mouse-Tracking, Guilt, fMRI, tDCS
 
 ---
 ![photo](https://github.com/bsbbs/bsbbs.github.io/blob/main/20240909-DSCF8576.JPG?raw=true)
