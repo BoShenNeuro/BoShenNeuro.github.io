@@ -5,7 +5,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 ---
 ### Research Interests
 
-- __Value coding and decision-making__[^first][^second][^third][^fourth] - answer how your brain processes something you like or hate and choose between them.
+- __Value coding and decision-making__[^first],[^second],[^third][^fourth] - answer how your brain processes something you like or hate and choose between them.
 - __Neural circuit computations__[^third][^fifth][^sixth] - understand how cognition arises from the network of billions of neurons.
 - __Social decision-making__[^third][^seventh][^tenth][^eleventh] - understand how humans pick their best ways of social interactions with others.
 
