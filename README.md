@@ -5,12 +5,12 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 ---
 ### Research Interests
 
-- __Value coding and decision-making__[^first],[^second],[^third][^fourth] - answer how your brain processes something you like or hate and choose between them.
-- __Neural circuit computations__[^third][^fifth][^sixth] - understand how cognition arises from the network of billions of neurons.
-- __Social decision-making__[^third][^seventh][^tenth][^eleventh] - understand how humans pick their best ways of social interactions with others.
+- __Value coding and decision-making__[^first],[^second],[^third],[^fourth] - answer how your brain processes something you like or hate and choose between them.
+- __Neural circuit computations__[^third],[^fifth],[^sixth] - understand how cognition arises from the network of billions of neurons.
+- __Social decision-making__[^third],[^seventh],[^tenth],[^eleventh] - understand how humans pick their best ways of social interactions with others.
 
 __Personal labels:__
-NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational[^third][^fifth][^sixth], Mouse-Tracking[^third], Guilt[^third][^seventh], fMRI[^eighth][^ninth][^tenth][^eleventh], tDCS[^second], Delay-discounting[^second][^fourth], Photography, Hiking, Camping
+NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational[^third],[^fifth],[^sixth], Mouse-Tracking[^third], Guilt[^third],[^seventh], fMRI[^eighth],[^ninth],[^tenth],[^eleventh], tDCS[^second], Delay-discounting[^second],[^fourth], Photography, Hiking, Camping
 
 
 
