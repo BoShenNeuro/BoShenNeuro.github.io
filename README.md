@@ -12,6 +12,10 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 __Personal labels:__
 NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational[^third][^fifth][^sixth], Mouse-Tracking[^third], Guilt[^third][^seventh], fMRI[^eighth][^ninth][^tenth][^eleventh], tDCS[^second], Delay-discounting[^second][^fourth], Photography, Hiking, Camping
 
+*[PKU]:Peking University
+
+
+
 [^first]: Shen, B., Wilson, J. M., Nguyen, D., Glimcher, P. W., & Louie, K. (2024). Origins of noise in both improving and degrading decision making. [bioRxiv, 2024-03.](https://doi.org/10.1101/2024.03.26.586597)
 
 [^second]: Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
