@@ -1,14 +1,27 @@
-## Research Scientist
+### Research Scientist
 
 __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Grossman School of Medicine__
 
 ---
 ### Research Interests
 
-- __[Value coding and decision-making](https://www.biorxiv.org/content/10.1101/2024.03.26.586597v2)__ - answer how your brain processes something you like or hate and choose between them.
+- __[Value coding and decision-making](https://www.biorxiv.org/content/10.1101/2024.03.26.586597v2)__[^first][^second][^third] - answer how your brain processes something you like or hate and choose between them.
 - __[Neural circuit computations](https://elifesciences.org/articles/82426)__ - understand how cognition arises from the network of billions of neurons.
 - __[Social decision-making](https://www.pnas.org/doi/10.1073/pnas.2302484120)__ - understand how humans pick their best ways of social interactions with others.
 
+Footnote 1 link[^first].
+
+Footnote 2 link[^second].
+
+Inline footnote^[Text of inline footnote] definition.
+
+Duplicated footnote reference[^second].
+
+[^first]: Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
+
+[^second]: Shen, B., Chen, Y., He, Z., Li, W., Yu, H., & Zhou, X. (2023). The competition dynamics of approach and avoidance motivations following interpersonal transgression. [PNAS, 120(40), e2302484120.](https://doi.org/10.1073/pnas.2302484120)
+
+[^third]: Yu, H., Gao, X., Shen, B., Hu, Y., & Zhou, X. (2024). A levels-of-analysis framework for studying social emotions. [Nature Reviews Psychology, 1-16.](https://doi.org/10.1038/s44159-024-00285-1)
 
 __Personal labels:__
 NYU, PKU, SJTU, Neuroeconomics, Decision-making, Computational, Mouse-Tracking, Guilt, fMRI, tDCS, Photography, Hiking, Camping
