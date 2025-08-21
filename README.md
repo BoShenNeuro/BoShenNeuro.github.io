@@ -84,5 +84,5 @@ Bo & Jia married in New York, September 2024
 
 ---
 
-::: Footnotes :::
+::: References :::
 
