@@ -22,7 +22,7 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 ### CV in Brief
 __2022 to now - Research Scientist, New York University__
 
-  <span style="font-size: 80%;">Researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD.</span>
+  <span style="font-size: 12px;">Researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD.</span>
 
 __2019 to 2022 - Postdoc, New York University__
 
@@ -38,8 +38,8 @@ __2008 to 2012 - Bachelor's in Physics, Shanghai Jiaotong University__
 
 
 _Tag me with:_
- <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span>[^third],[^fifth],[^sixth] <span>#Mouse-Tracking</span>[^third]
-<span>#Guilt</span>[^third],[^seventh], <span>#fMRI</span>[^eighth],[^ninth],[^tenth],[^eleventh], <span>#tDCS</span>[^second], <span>#Delay-discounting</span>[^second],[^fourth]
+ <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span> <span>#Mouse-Tracking</span>
+<span>#Guilt</span>, <span>#fMRI</span>, <span>#tDCS</span>, <span>#Delay-discounting</span>
 
 
 [^first]: Shen, B., Nguyen, D., Wilson, J. M., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
