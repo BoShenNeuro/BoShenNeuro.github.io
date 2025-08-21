@@ -6,16 +6,22 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 ---
 ### Research Interests
 
-- __Value coding and decision-making__[^first],[^second],[^third],[^fourth] - answer how your brain processes something you like or hate and choose between them.
-- __Neural circuit computations__[^third],[^fifth],[^sixth] - understand how cognition arises from the network of billions of neurons.
+- __Value coding and decision-making__[^first],[^second],[^third],[^fourth] - answer how your brain processes what you like and hate and choose between them to make you a better life. Now, we study this for applications facing AI robotics.
+- __Neural circuit computations__[^third],[^fifth],[^sixth] - understand how cognition arises from the network of billions of neurons. Neuromorphic computation is more energy-efficient than the cutting-edge artificial networks in theory and awaits breakthroughs together with hardware neuromorphic chips.
 - __Social decision-making__[^third],[^seventh],[^tenth],[^eleventh] - understand how humans pick their best ways of social interactions with others.
+
+
+### CV in Brief
+- __Postdoc in Computational neuroscience, NYU Langone School of Medicine__- with Paul Glimcher, Kenway Louie, John Rinzel, and Richard Tsien.
+
+
 
 __Tag me with:__
  <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span>[^third],[^fifth],[^sixth] <span>#Mouse-Tracking</span>[^third]
 <span>#Guilt</span>[^third],[^seventh], <span>#fMRI</span>[^eighth],[^ninth],[^tenth],[^eleventh], <span>#tDCS</span>[^second], <span>#Delay-discounting</span>[^second],[^fourth], <span>#Photography</span>, <span>#Hiking</span>, <span>#Camping</span>
 
 
-[^first]: Shen, B., Wilson, J. M., Nguyen, D., Glimcher, P. W., & Louie, K. (2024). Origins of noise in both improving and degrading decision making. [bioRxiv, 2024-03.](https://doi.org/10.1101/2024.03.26.586597)
+[^first]: Shen, B., Nguyen, D., Wilson, J. M., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
 
 [^second]: Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
 
@@ -42,7 +48,7 @@ __Tag me with:__
 ---
 
 ## Selected publications
-- Shen, B., Wilson, J. M., Nguyen, D., Glimcher, P. W., & Louie, K. (2024). Origins of noise in both improving and degrading decision making. [bioRxiv, 2024-03.](https://doi.org/10.1101/2024.03.26.586597)
+- Shen, B., Nguyen, D., Wilson, J. M., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
 - Shen, B., Louie, K., & Glimcher, P. (2023). Flexible control of representational dynamics in a disinhibition-based model of decision-making. [Elife, 12, e82426.](https://doi.org/10.7554/eLife.82426)
 - Shen, B., Chen, Y., He, Z., Li, W., Yu, H., & Zhou, X. (2023). The competition dynamics of approach and avoidance motivations following interpersonal transgression. [PNAS, 120(40), e2302484120.](https://doi.org/10.1073/pnas.2302484120)
 - Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
@@ -52,7 +58,7 @@ __Tag me with:__
 ## Personal Highlights
 
 ![photo](https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true)
-Bo Shen married Jia He in New York, September 2024
+Bo & Jia married in New York, September 2024
 
 ---
 
