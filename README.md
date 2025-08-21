@@ -22,19 +22,19 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 ### CV in Brief
 __2022 to now - Research Scientist, New York University__
 
-  <span style="font-size: 12px;">Researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD.</span>
+  Researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD
 
 __2019 to 2022 - Postdoc, New York University__
 
-   <small>Neural circuit computation of decision-making, NYU Langone School of Medicine, mentored by Paul Glimcher PhD and Kenway Louie MD PhD.</small>
+   Neural circuit computation of decision-making, NYU Langone School of Medicine, mentored by Paul Glimcher PhD and Kenway Louie MD PhD
 
 __2012 to 2018 - PhD in Psychology, Peking University__
 
-   <small>Human brain imaging and social decision-making, School of Psychological and Cognitive Sciences, Peking University, mentored by Xiaolin Zhou PhD and Jian Li PhD.</small>
+   Human brain imaging and social decision-making, School of Psychological and Cognitive Sciences, Peking University, mentored by Xiaolin Zhou PhD and Jian Li PhD
 
 __2008 to 2012 - Bachelor's in Physics, Shanghai Jiaotong University__
 
-   <small>Department of Physics, Shanghai Jiaotong University, mentored by Wenjun Ying PhD and David Cai PhD.</small>
+   Department of Physics, Shanghai Jiaotong University, mentored by Wenjun Ying PhD and David Cai PhD
 
 
 _Tag me with:_
@@ -42,7 +42,7 @@ _Tag me with:_
 <span>#Guilt</span>, <span>#fMRI</span>, <span>#tDCS</span>, <span>#Delay-discounting</span>
 
 
-[^first]: Shen, B., Nguyen, D., Wilson, J. M., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
+[^first]: Shen, B., Nguyen, D., Wilson, J., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. Nature communications, 16(1), 3828. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
 
 [^second]: Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
 
@@ -69,7 +69,7 @@ _Tag me with:_
 ---
 
 ## Selected publications
-- Shen, B., Nguyen, D., Wilson, J. M., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
+- Shen, B., Nguyen, D., Wilson, J., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. Nature communications, 16(1), 3828. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
 - Shen, B., Louie, K., & Glimcher, P. (2023). Flexible control of representational dynamics in a disinhibition-based model of decision-making. [Elife, 12, e82426.](https://doi.org/10.7554/eLife.82426)
 - Shen, B., Chen, Y., He, Z., Li, W., Yu, H., & Zhou, X. (2023). The competition dynamics of approach and avoidance motivations following interpersonal transgression. [PNAS, 120(40), e2302484120.](https://doi.org/10.1073/pnas.2302484120)
 - Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
