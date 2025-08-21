@@ -28,11 +28,11 @@ __2019 to 2022 - Postdoc, New York University__
 
   Neural circuit computation of decision-making, NYU Langone School of Medicine, mentored by Paul Glimcher PhD and Kenway Louie MD PhD.
 
-__2012 to 2018 - PhD degree in Psychology, Peking University__
+__2012 to 2018 - PhD in Psychology, Peking University__
 
   Human brain imaging and social decision-making, School of Psychological and Cognitive Sciences, Peking University, mentored by Xiaolin Zhou PhD and Jian Li PhD.
 
-__2008 to 2012 - Bachelor's degree in Physics, Shanghai Jiaotong University__
+__2008 to 2012 - Bachelor's in Physics, Shanghai Jiaotong University__
 
   Department of Physics, Shanghai Jiaotong University, mentored by Wenjun Ying PhD and David Cai PhD.
 
@@ -79,7 +79,7 @@ __Tag me with:__
 ## Personal Highlights
 
 <!-- ![photo](https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true) -->
-<img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true" alt="My Image" width="100"/>
+<img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true" alt="My Image" width="180"/>
 Bo & Jia married in New York, September 2024
 
 ---
