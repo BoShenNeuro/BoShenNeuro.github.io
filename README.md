@@ -10,13 +10,15 @@ _Contact at bo.shen_at_nyu.edu_
 ---
 ### Research Interests
 
-- __Value coding and decision-making__[^first],[^second],[^third],[^fourth]
+- __Neural circuit computations of decision-making__[^first],[^third],[^fifth],[^sixth]
+
+  Understanding how cognition arises from the network of billions of neurons. Neuromorphic computation is more energy-efficient than the cutting-edge artificial networks in theory and awaits breakthroughs together with hardware neuromorphic chips.
+  
+- __Neural coding of decision-making value__[^first],[^second],[^third],[^fourth]
 
   Answering how your brain processes what you like and hate and choose between them to make you a better life. Now, we study this for applications facing AI robotics.
   
-- __Neural circuit computations of decision-making__[^third],[^fifth],[^sixth]
 
-  Understanding how cognition arises from the network of billions of neurons. Neuromorphic computation is more energy-efficient than the cutting-edge artificial networks in theory and awaits breakthroughs together with hardware neuromorphic chips.
   
 - __Social decision-making__[^third],[^seventh],[^tenth],[^eleventh]
 
