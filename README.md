@@ -69,7 +69,7 @@ _Tag me with:_
 ---
 
 ## Selected publications
-- Shen, B., Nguyen, D., Wilson, J., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. Nature communications, 16(1), 3828. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
+- Shen, B., Nguyen, D., Wilson, J., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. [Nature communications, 16(1), 3828.](https://doi.org/10.1038/s41467-025-59140-3)
 - Shen, B., Louie, K., & Glimcher, P. (2023). Flexible control of representational dynamics in a disinhibition-based model of decision-making. [Elife, 12, e82426.](https://doi.org/10.7554/eLife.82426)
 - Shen, B., Chen, Y., He, Z., Li, W., Yu, H., & Zhou, X. (2023). The competition dynamics of approach and avoidance motivations following interpersonal transgression. [PNAS, 120(40), e2302484120.](https://doi.org/10.1073/pnas.2302484120)
 - Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
