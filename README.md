@@ -39,7 +39,7 @@ __2008 to 2012 - Bachelor's in Physics, Shanghai Jiaotong University__
 
 __Tag me with:__
  <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span>[^third],[^fifth],[^sixth] <span>#Mouse-Tracking</span>[^third]
-<span>#Guilt</span>[^third],[^seventh], <span>#fMRI</span>[^eighth],[^ninth],[^tenth],[^eleventh], <span>#tDCS</span>[^second], <span>#Delay-discounting</span>[^second],[^fourth], <span>#Photography</span>, <span>#Hiking</span>, <span>#Camping</span>
+<span>#Guilt</span>[^third],[^seventh], <span>#fMRI</span>[^eighth],[^ninth],[^tenth],[^eleventh], <span>#tDCS</span>[^second], <span>#Delay-discounting</span>[^second],[^fourth]
 
 
 [^first]: Shen, B., Nguyen, D., Wilson, J. M., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
@@ -77,6 +77,7 @@ __Tag me with:__
 ---
 
 ## Personal Highlights
+Outside of the lab, I love  <span>#Photography</span>, <span>#Hiking</span>, <span>#Camping</span>.
 
 <!-- ![photo](https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true) -->
 <img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true" alt="My Image" width="180"/>
