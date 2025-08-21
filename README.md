@@ -66,7 +66,8 @@ __Tag me with:__
 
 ## Personal Highlights
 
-![photo](https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true)
+<!-- ![photo](https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true) -->
+<img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true" alt="My Image" width="100"/>
 Bo & Jia married in New York, September 2024
 
 ---
