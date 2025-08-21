@@ -22,7 +22,7 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 ### CV in Brief
 __2022 to now - Research Scientist, New York University__
 
-  <small>Researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD.</small>
+  <span style="font-size: 80%;">Researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD.</span>
 
 __2019 to 2022 - Postdoc, New York University__
 
