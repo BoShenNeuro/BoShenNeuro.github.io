@@ -1,7 +1,7 @@
 
 ### Research Scientist
 
-__[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Grossman School of Medicine__
+__New York University, Grossman School of Medicine, [Glimcher lab](https://www.neuroeconomicslab.org/)__
 
 ---
 ### Research Interests
@@ -13,6 +13,7 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 
 ### CV in Brief
 - __2022 to now - Research Scientist, New York University__- 
+
   Researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD.
 
 - __2019 to 2022, Postdoc, New York University__-
