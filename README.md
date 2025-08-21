@@ -18,7 +18,7 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 
 - __2019 to 2022, Postdoc, New York University__-
 
-  Neural circuit computation of decision-making, NYU Langone School of Medicine, mentored by Drs. Paul Glimcher PhD and Kenway Louie MD PhD.
+  Neural circuit computation of decision-making, NYU Langone School of Medicine, mentored by Paul Glimcher PhD and Kenway Louie MD PhD.
 
   
 - __2012 to 2018, PhD degree in Psychology, Peking University__-
