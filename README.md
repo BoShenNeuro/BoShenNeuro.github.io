@@ -6,8 +6,10 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 ---
 ### Research Interests
 
-- __Value coding and decision-making__[^first],[^second],[^third],[^fourth] - answer how your brain processes what you like and hate and choose between them to make you a better life. Now, we study this for applications facing AI robotics.
+- __Value coding and decision-making__[^first],[^second],[^third],[^fourth] - Answer how your brain processes what you like and hate and choose between them to make you a better life. Now, we study this for applications facing AI robotics.
+  
 - __Neural circuit computations__[^third],[^fifth],[^sixth] - understand how cognition arises from the network of billions of neurons. Neuromorphic computation is more energy-efficient than the cutting-edge artificial networks in theory and awaits breakthroughs together with hardware neuromorphic chips.
+  
 - __Social decision-making__[^third],[^seventh],[^tenth],[^eleventh] - understand how humans pick their best ways of social interactions with others.
 
 
@@ -20,12 +22,10 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 
   Neural circuit computation of decision-making, NYU Langone School of Medicine, mentored by Paul Glimcher PhD and Kenway Louie MD PhD.
 
-  
 - __2012 to 2018, PhD degree in Psychology, Peking University__-
 
   Human brain imaging and social decision-making, School of Psychological and Cognitive Sciences, Peking University, mentored by Xiaolin Zhou PhD and Jian Li PhD.
 
-  
 - __2008 to 2012, Bachelor's degree in Physics, Shanghai Jiaotong University__-
 
   Department of Physics, Shanghai Jiaotong University, mentored by Wenjun Ying PhD and David Cai PhD.
