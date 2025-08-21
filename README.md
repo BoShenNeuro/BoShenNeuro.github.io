@@ -8,7 +8,7 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 
 - __Value coding and decision-making__[^first],[^second],[^third],[^fourth]
 
- Answering how your brain processes what you like and hate and choose between them to make you a better life. Now, we study this for applications facing AI robotics.
+  Answering how your brain processes what you like and hate and choose between them to make you a better life. Now, we study this for applications facing AI robotics.
   
 - __Neural circuit computations__[^third],[^fifth],[^sixth]
 
