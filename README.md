@@ -2,7 +2,8 @@
 ### Research Scientist
 
 __New York University, Grossman School of Medicine, [Glimcher lab](https://www.neuroeconomicslab.org/)__
-[Google scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
+
+[Google Scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
 
 ---
 ### Research Interests
