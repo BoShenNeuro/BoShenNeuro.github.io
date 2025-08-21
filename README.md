@@ -37,7 +37,7 @@ __2008 to 2012 - Bachelor's in Physics, Shanghai Jiaotong University__
   Department of Physics, Shanghai Jiaotong University, mentored by Wenjun Ying PhD and David Cai PhD.
 
 
-__Tag me with:__
+_Tag me with:_
  <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span>[^third],[^fifth],[^sixth] <span>#Mouse-Tracking</span>[^third]
 <span>#Guilt</span>[^third],[^seventh], <span>#fMRI</span>[^eighth],[^ninth],[^tenth],[^eleventh], <span>#tDCS</span>[^second], <span>#Delay-discounting</span>[^second],[^fourth]
 
@@ -77,11 +77,11 @@ __Tag me with:__
 ---
 
 ## Personal Highlights
-Outside of the lab, I love  <span>#Photography</span>, <span>#Hiking</span>, <span>#Camping</span>.
+- Outside of the lab, I love  <span>#Photography</span>, <span>#Hiking</span>, <span>#Camping</span>.
 
 <!-- ![photo](https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true) -->
 <img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true" alt="My Image" width="180"/>
-Bo & Jia married in New York, September 2024
+- Bo & Jia married in New York, September 2024
 
 ---
 
