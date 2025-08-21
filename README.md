@@ -3,7 +3,9 @@
 
 __New York University, Grossman School of Medicine, [Glimcher lab](https://www.neuroeconomicslab.org/)__
 
-[Google Scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)  Contact at bo.shen_at_nyu.edu
+[Google Scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
+
+_Contact at bo.shen_at_nyu.edu_
 
 ---
 ### Research Interests
