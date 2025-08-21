@@ -12,8 +12,10 @@ __[Glimcher lab](https://www.neuroeconomicslab.org/), New York University, Gross
 
 
 ### CV in Brief
-- __Postdoc in Computational neuroscience, NYU Langone School of Medicine__- with Paul Glimcher, Kenway Louie, John Rinzel, and Richard Tsien.
-
+- __2022 to now, Research Scientist, New York University__- researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD.
+- __2019 to 2022, Postdoc, New York University__- neural circuit computation of decision-making, NYU Langone School of Medicine, mentored by Drs. Paul Glimcher PhD and Kenway Louie MD PhD.
+- __2012 to 2018, PhD degree in Psychology, Peking University__- human brain imaging and social decision-making, School of Psychological and Cognitive Sciences, Peking University, mentored by Xiaolin Zhou PhD and Jian Li PhD.
+- __2008 to 2012, Bachelor's degree in Physics, Shanghai Jiaotong University__- Department of Physics, Shanghai Jiaotong University, mentored by Wenjun Ying PhD and David Cai PhD.
 
 
 __Tag me with:__
