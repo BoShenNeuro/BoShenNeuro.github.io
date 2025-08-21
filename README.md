@@ -5,7 +5,7 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 
 [Google Scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
 
-[^_Contact at bo.shen_at_nyu.edu_]
+<span style="text-transform: uppercase;">_Contact at bo.shen_at_nyu.edu_</span>
 
 ---
 ### Research Interests
