@@ -2,6 +2,7 @@
 ### Research Scientist
 
 __New York University, Grossman School of Medicine, [Glimcher lab](https://www.neuroeconomicslab.org/)__
+[Google scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
 
 ---
 ### Research Interests
@@ -36,7 +37,6 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 
    Department of Physics, Shanghai Jiaotong University, mentored by Wenjun Ying PhD and David Cai PhD
 
-Google Scholar page: [Bo Shen](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
 
 _Tag me with:_
  <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span> <span>#Mouse-Tracking</span>
