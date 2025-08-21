@@ -6,11 +6,17 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 ---
 ### Research Interests
 
-- __Value coding and decision-making__[^first],[^second],[^third],[^fourth] - Answer how your brain processes what you like and hate and choose between them to make you a better life. Now, we study this for applications facing AI robotics.
+- __Value coding and decision-making__[^first],[^second],[^third],[^fourth]
+
+ Answering how your brain processes what you like and hate and choose between them to make you a better life. Now, we study this for applications facing AI robotics.
   
-- __Neural circuit computations__[^third],[^fifth],[^sixth] - understand how cognition arises from the network of billions of neurons. Neuromorphic computation is more energy-efficient than the cutting-edge artificial networks in theory and awaits breakthroughs together with hardware neuromorphic chips.
+- __Neural circuit computations__[^third],[^fifth],[^sixth]
+
+  Understanding how cognition arises from the network of billions of neurons. Neuromorphic computation is more energy-efficient than the cutting-edge artificial networks in theory and awaits breakthroughs together with hardware neuromorphic chips.
   
-- __Social decision-making__[^third],[^seventh],[^tenth],[^eleventh] - understand how humans pick their best ways of social interactions with others.
+- __Social decision-making__[^third],[^seventh],[^tenth],[^eleventh]
+
+  Understanding how humans pick their best ways of social interactions with others.
 
 
 ### CV in Brief
