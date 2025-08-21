@@ -44,7 +44,7 @@ _Tag me with:_
 <span>#Guilt</span>, <span>#fMRI</span>, <span>#tDCS</span>, <span>#Delay-discounting</span>
 
 
-[^first]: Shen, B., Nguyen, D., Wilson, J., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. Nature communications, 16(1), 3828. ([https://doi.org/10.1101/2024.03.26.586597](https://doi.org/10.1038/s41467-025-59140-3))
+[^first]: Shen, B., Nguyen, D., Wilson, J., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. [Nature communications, 16(1), 3828.](https://doi.org/10.1038/s41467-025-59140-3)
 
 [^second]: Shen, B., Yin, Y., Wang, J., Zhou, X., McClure, S. M., & Li, J. (2016). High-definition tDCS alters impulsivity in a baseline-dependent manner. [NeuroImage, 143, 343-352.](https://doi.org/10.1016/j.neuroimage.2016.09.006)
 
