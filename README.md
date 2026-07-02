@@ -91,7 +91,9 @@ _Tag me with:_
 
   <img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/34eba80719a000da48b477481b7985ac0ed811a7/StateKeyLaboratory.jpg?raw=true" alt="Institute Image" width="180"/>
 - Bo joined Institue of Psychology, CAS in March, 2026
-- 
+
+
+  
 <img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true" alt="My Image" width="180"/>
 
 - Bo & Jia married in New York, September 2024
