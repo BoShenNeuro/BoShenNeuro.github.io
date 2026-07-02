@@ -89,7 +89,7 @@ _Tag me with:_
 
 ## Personal Highlights
 
-  <img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/34eba80719a000da48b477481b7985ac0ed811a7/StateKeyLaboratory.jpg?raw=true" alt="Institute Image" width="260"/>
+  <img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/34eba80719a000da48b477481b7985ac0ed811a7/StateKeyLaboratory.jpg?raw=true" alt="Institute Image" width="180"/>
   
 - Bo joined the Institute of Psychology, CAS in March, 2026
 
