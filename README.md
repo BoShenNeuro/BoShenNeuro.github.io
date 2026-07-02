@@ -1,11 +1,12 @@
 
-### Research Scientist
+### Assistant Professor (副研究员）
 
-__New York University, Grossman School of Medicine, [Glimcher lab](https://www.neuroeconomicslab.org/)__
+__State Key Laboratory of Cognitive Science and Mental Health__
+__Institute of Psychology, Chinese Academy of Sciences, Beijing, China__
 
 [Google Scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
 
-<sub>_Contact at bo.shen_at_nyu.edu_</sub>
+<sub>_Contact at shenb_at_psych.ac.cn_</sub>
 
 ---
 ### Research Interests
@@ -26,7 +27,11 @@ __New York University, Grossman School of Medicine, [Glimcher lab](https://www.n
 
 
 ### CV in Brief
-- __2022 to now - Research Scientist, New York University__
+- __2026 to now  - Assistant Professor, Institute of Psychology, Chinese Academy of Sciences__
+
+  Decision-making, neural circuit computation, NeuroAI, temporal dynamics, brain imaging, etc.
+
+- __2022 to 2026 - Research Scientist, New York University__
 
   Researcher in computational neuroscience, NYU Langone School of Medicine, with Paul Glimcher PhD, Kenway Louie MD, PhD, John Rinzel PhD, and Richard Tsien PhD
 
