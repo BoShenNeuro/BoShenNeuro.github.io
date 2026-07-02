@@ -49,8 +49,7 @@ __Institute of Psychology, Chinese Academy of Sciences, Beijing, China__
 
 
 _Tag me with:_
- <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span> <span>#Mouse-Tracking</span>
-<span>#Guilt</span>, <span>#fMRI</span>, <span>#tDCS</span>, <span>#Delay-discounting</span>
+ <span>#NYU</span> <span>#PKU</span> <span>#SJTU</span> <span>#Neuroeconomics</span> <span>#Decision-making</span> <span>#Computational</span> <span>#Mouse-Tracking</span>, <span>#fMRI</span>, <span>#tDCS</span>
 
 
 [^first]: Shen, B., Nguyen, D., Wilson, J., Glimcher, P. W., & Louie, K. (2025). Early versus late noise differentially enhances or degrades context-dependent choice. [Nature communications, 16(1), 3828.](https://doi.org/10.1038/s41467-025-59140-3)
