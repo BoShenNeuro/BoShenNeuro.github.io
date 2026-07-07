@@ -1,10 +1,10 @@
  
-### Assistant Professor（副研究员）
+### Assistant Professor (副研究员)
 
-__State Key Laboratory of Cognitive Science and Mental Health（认知科学与心理健康全国重点实验室）__
+__State Key Laboratory of Cognitive Science and Mental Health (认知科学与心理健康全国重点实验室)__
 
 
-__Institute of Psychology, Chinese Academy of Sciences, Beijing, China（中国科学院心理研究所）__
+__Institute of Psychology, Chinese Academy of Sciences, Beijing, China (中国科学院心理研究所)__
 
 [Google Scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
 
