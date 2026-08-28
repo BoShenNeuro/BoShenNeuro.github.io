@@ -1,11 +1,6 @@
  
 ### Assistant Professor (副研究员)
 
-__State Key Laboratory of Cognitive Science and Mental Health (认知科学与心理健康全国重点实验室)__
-
-
-__Institute of Psychology, Chinese Academy of Sciences, Beijing, China (中国科学院心理研究所)__
-
 [Google Scholar page](https://scholar.google.com/citations?user=rQPFfuIAAAAJ&hl=en)
 
 <sub>_Contact at shenb_at_psych.ac.cn_</sub>
@@ -93,13 +88,6 @@ _Tag me with:_
   <img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/34eba80719a000da48b477481b7985ac0ed811a7/StateKeyLaboratory.jpg?raw=true" alt="Institute Image" width="280"/>
   
 - Bo joined the Institute of Psychology, Chinese Academy of Sciences in March 2026
-
-  
-<img src="https://github.com/BoShenNeuro/BoShenNeuro.github.io/blob/main/WechatIMG49.jpg?raw=true" alt="My Image" width="280"/>
-
-- Bo & Jia married in New York, September 2024
-
-- Outside of the lab, I love <span>#Hiking</span>, <span>#Camping</span>.
 
 ---
 
